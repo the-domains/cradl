@@ -1,4 +1,3 @@
-layout_spectrum: 0.3080046265386045
 typography_spectrum: 0.3509798326995224
 color:
   brandStrength: 0.027094441698864102
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.3080046265386045
 name: cradl
 title: Find it
+description: Cradl
