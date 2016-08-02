@@ -1,0 +1,14 @@
+layout_spectrum: 0.3080046265386045
+typography_spectrum: 0.3509798326995224
+color:
+  brandStrength: 0.027094441698864102
+  lightness: 0.42740191076882184
+  saturation: 0.005690095480531454
+  rhythmicContrast: 0.4607335601467639
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: cradl
