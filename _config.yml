@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.3080046265386045
 name: cradl
+navigation:
+  - name: 'Movie: How to let go of the World'
+    url: 'http://www.howtoletgomovie.com/'
+    type: external
 title: Find it
 description: Cradl
